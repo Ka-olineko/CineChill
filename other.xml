@@ -58,11 +58,13 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://github.com/Padakeno/CineChill/tree/master/CineChill" />
         <option value="https://github.com/Padakeno/CineChill.git" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://github.com/Padakeno/CineChill/tree/master/CineChill" />
         <option value="https://github.com/Padakeno/CineChill.git" />
       </list>
     </option>
